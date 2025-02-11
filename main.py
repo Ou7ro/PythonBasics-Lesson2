@@ -1,4 +1,4 @@
-from transliterate import get_available_language_codes, translit
+from transliterate import translit
 from num2words import num2words
 
 
